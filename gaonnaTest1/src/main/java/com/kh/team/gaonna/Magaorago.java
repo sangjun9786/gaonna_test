@@ -7,4 +7,5 @@ public class Magaorago {
 	// 쉬는시간
 	//테스트
 	//충돌안나게
+	//호이호이 둘리
 }
