@@ -6,5 +6,5 @@ public class Magaorago {
 	// 오후 3시
 	// 쉬는시간
 	//테스트
-	//1
+	//충돌안나게
 }
