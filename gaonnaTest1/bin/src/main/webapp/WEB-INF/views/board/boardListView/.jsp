@@ -4,13 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>야미 공식 홈페이지</title>
+<title>Insert title here</title>
 </head>
 <body>
-	야미~~
-	야미~~~
-	야미~~~~~~~~
-	야미~~~~~~~~~~~~
-	야! 미!~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 </body>
 </html>
