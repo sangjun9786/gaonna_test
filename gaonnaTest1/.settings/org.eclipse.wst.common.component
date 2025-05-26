@@ -8,15 +8,15 @@
                 		
         
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
-<<<<<<< HEAD
-=======
+                		
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                		
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
                 
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/java"/>
-<<<<<<< HEAD
->>>>>>> branch 'main' of https://github.com/sangjun9786/gaonna_test.git
-=======
-        <wb-resource deploy-path="/WEB-INF/classes" source-path="/"/>
->>>>>>> branch 'main' of https://github.com/sangjun9786/gaonna_test.git
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
                 		
         
         <property name="java-output-path" value="target/classes"/>
