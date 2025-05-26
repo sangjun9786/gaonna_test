@@ -9,11 +9,11 @@
 	<version>1.0.0-BUILD-SNAPSHOT</version>
 	<properties>
 		<java-version>11</java-version>
-		<!-- 오늘부터 자바11을 사용하기로 해요. -->
+		<!-- 오늘부터 자바11을 사용하기로 해요. 
 		<org.springframework-version>5.0</org.springframework-version>
 		<org.aspectj-version>11</org.aspectj-version>
 		<org.slf4j-version>11</org.slf4j-version>
-	</properties>
+	</properties>-->
 	<dependencies>
 		<!-- Spring -->
 		<dependency>
